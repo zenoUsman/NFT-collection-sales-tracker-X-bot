@@ -1,4 +1,4 @@
-# Oensea Sales tracker bot 
+# Opensea Sales tracker bot 
 
 Twitter sales bot deploy opn opense V2 api and twitter V2 API KEY, this bot track the collections sales on opensea and post it on X(Formal Twitter), after every 60 sec its fetch data from opensea api if any sales made it will post on X(Formal Twitter). There is duplicate tweet checker which see if same tweet made already it return duplicate Tweet if not it post the tweet, function is local checker its added becauce twitter api have limit so if its continue checking by calling api of twitter there is chance to get rate limit.
 
