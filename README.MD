@@ -33,13 +33,15 @@ ACCESS_TOKEN_SECRET=your_twitter_access_token_secret
 X_API_KEY=your_opensea_api_key
 
 4. Update the Procfile with your script name:
-web: python your_script_name.py
+web: python bot.py
 
 5. Run the Flask app locally with the following command:
 python your_script_name.py
 Visit http://localhost:5000 in your browser to view the app.
 
-6. Deployment
+
+### Deployment
+
 Deploy your app to Heroku following these steps:
 
 Create a Heroku account if you don't have one.
