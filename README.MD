@@ -44,6 +44,8 @@ Visit http://localhost:5000 in your browser to view the app.
 
 Deploy your app to Heroku following these steps:
 
+Note: Its better you purchase 7$ dyno and set it to worker state.
+
 Create a Heroku account if you don't have one.
 Log in to Heroku in the terminal:
 
